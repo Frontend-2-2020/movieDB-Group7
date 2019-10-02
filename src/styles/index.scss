@@ -1,0 +1,23 @@
+$body-color: blue;
+
+body {
+  color: $body-color;
+}
+
+.card{
+  text-align: center;
+}
+
+.jumbotron__img{
+  height: 80vh;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+
+.logo_company{
+  width: 50px;
+  height: auto;
+  margin-right: 20px;
+}
+
